@@ -12,7 +12,7 @@ here <a href="mailto:vivekchaitanya1324@gmail.com?">Mail</a> for any collaborati
 [![My Skills](https://skillicons.dev/icons?i=c,java,js,ts,python)](https://skillicons.dev)
 
 # Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,tailwind,mui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,express,tailwind,mui)](https://skillicons.dev)
 
 # Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,redis)](https://skillicons.dev)
