@@ -5,7 +5,7 @@
 <a href="https://vivekadapa.me" target="_blank">Portfolio</a>
 
 
-<p> Currently pursuing my bachelor's <sup>[2025 grad]</sup> at Indian Institute of Information Technology Sri City, a passionate <em>computer science student</em> with a keen interest in building scalable, efficient, and innovative softwares. I have hands-on experience in creating both backend and frontend systems, and I’m always eager to learn new technologies and take on challenging projects. Reach out to me
+<p> Full Stack Engineer Intern @FreshPrints, Currently pursuing my bachelor's <sup>[2025 grad]</sup> at Indian Institute of Information Technology Sri City, a passionate <em>computer science student</em> with a keen interest in building scalable, efficient, and innovative softwares. I have hands-on experience in creating both backend and frontend systems, and I’m always eager to learn new technologies and take on challenging projects. Reach out to me
 here <a href="mailto:vivekchaitanya1324@gmail.com?">Mail</a> for any collaborations.</p>
 
 
