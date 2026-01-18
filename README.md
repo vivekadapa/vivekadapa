@@ -20,5 +20,3 @@ here <a href="mailto:vivekchaitanya1324@gmail.com?">Mail</a> for any collaborati
 # Tools
 [![My Skills](https://skillicons.dev/icons?i=git,docker,vscode,linux)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekadapa&hide_progress=true)
-
